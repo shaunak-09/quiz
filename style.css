@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(138, 197, 246);
+    color: black;
+    margin-left: 50px;
+    padding: 10px;
+    
+}
+.heading{
+    font-size: 60px;
+    font-weight: 700;
+    margin-left: 60px;
+}
+    
+.q{
+    font-size: 30px;
+    font-weight: 600;
+}
+.ans{
+    font-size: 20px;
+    font-weight: 520;
+}
+#button{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+}
